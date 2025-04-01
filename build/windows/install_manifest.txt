@@ -1,0 +1,17 @@
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-Bold.ttf
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-ExtraBold.ttf
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-Light.ttf
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-Medium.ttf
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-Regular.ttf
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/assets/images/avatar.png
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/assets/images/avatar2.png
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/gauth/OneDrive/other/Documents/GitHub/planner/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
